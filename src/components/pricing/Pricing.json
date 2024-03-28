@@ -1,0 +1,35 @@
+[
+    {
+        "id":"1",
+        "name":"Temel",
+        "price1":"120",
+        "price2":"1200",
+        "content1":"iyi",
+        "content2":"720p(HD)",
+        "content3":"Televizyon,bilgisayar,cep telefonu,tablet",
+        "content4":"1",
+        "content5":"1"
+    },
+    {
+        "id":"2",
+        "name":"Standart",
+        "price1":"200",
+        "price2":"2000",
+        "content1":"yüksek",
+        "content2":"1080p(HD)",
+        "content3":"Televizyon,bilgisayar,cep telefonu,tablet",
+        "content4":"2",
+        "content5":"2"
+    },
+    {
+        "id":"3",
+        "name":"Özel",
+        "price1":"320",
+        "price2":"3000",
+        "content1":"En yüksek",
+        "content2":"4K(Ultra HD) + HDR",
+        "content3":"Televizyon,bilgisayar,cep telefonu,tablet",
+        "content4":"4",
+        "content5":"6"
+    }
+]
